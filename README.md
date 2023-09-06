@@ -1,8 +1,6 @@
 First npm i
 
-Second run the command to start the backend from backend folder :- nodemon server
-
-Third run the command to start the application in a new terminal:- npm start
+Second run the command to start the application in a new terminal:- npm start
 
 
  

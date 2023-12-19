@@ -4,7 +4,7 @@ import './weather.css'
 const WeatherDisplay = ({ location }) => {
   const [weatherData, setWeatherData] = useState(null);
   const [loading, setLoading] = useState(false); 
-  const apiKey = '6783c6f371512588b3e482f47e68fd4d'; 
+  const apiKey = 'Your_Api_Key'; 
   useEffect(() => {
     if (location) {
       setLoading(true); 
